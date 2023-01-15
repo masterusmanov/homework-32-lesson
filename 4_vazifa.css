@@ -1,0 +1,22 @@
+div{
+    width: 600px;
+    height: 600px;
+    border: 1px solid black;
+    margin: 200px auto;
+}
+h1{
+    text-align: center;
+}
+.demo1{
+    padding: 15px;
+    border-radius: 10px;
+    border: none;
+    background-color: #0D9EFE;
+    color: aliceblue;
+    font-size: 25px;
+    margin-top: 150px;
+}
+.demo1:hover{
+    background-color: black;
+    color: yellow;
+}

@@ -1,0 +1,102 @@
+div{
+    width: 900px;
+    height: 60px;
+    border: 1px solid black;
+    margin: 200px auto;
+}
+.demo1{
+    padding: 15px;
+    border-radius: 10px;
+    border: none;
+    background-color: #0D9EFE;
+    color: aliceblue;
+    font-size: 25px;
+}
+.demo1:hover{
+    background-color: black;
+    color: yellow;
+}
+.demo2{
+    padding: 15px;
+    border-radius: 10px;
+    border: none;
+    background-color: #6E7491;
+    color: aliceblue;
+    font-size: 25px;
+}
+.demo2:hover{
+    background-color: black;
+    color: yellow;
+}
+.demo3{
+    padding: 15px;
+    border-radius: 10px;
+    border: none;
+    background-color: #298F61;
+    color: aliceblue;
+    font-size: 25px;
+}
+.demo3:hover{
+    background-color: black;
+    color: yellow;
+}
+.demo4{
+    padding: 15px;
+    border-radius: 10px;
+    border: none;
+    background-color: #0DCDF4;
+    color: aliceblue;
+    font-size: 25px;
+}
+.demo4:hover{
+    background-color: black;
+    color: yellow;
+}
+.demo5{
+    padding: 15px;
+    border-radius: 10px;
+    border: none;
+    background-color: #FFC22C;
+    color: aliceblue;
+    font-size: 25px;
+}
+.demo5:hover{
+    background-color: black;
+    color: yellow;
+}
+.demo6{
+    padding: 15px;
+    border-radius: 10px;
+    border: none;
+    background-color: #DE2150;
+    color: aliceblue;
+    font-size: 25px;
+}
+.demo6:hover{
+    background-color: black;
+    color: yellow;
+}
+.demo7{
+    padding: 15px;
+    border-radius: 10px;
+    border: none;
+    background-color: #191A3F;
+    color: aliceblue;
+    font-size: 25px;
+}
+.demo7:hover{
+    background-color: black;
+    color: yellow;
+}
+.demo8{
+    padding: 15px;
+    border-radius: 10px;
+    border: none;
+    background-color: whitesmoke;
+    color: black;
+    font-size: 25px;
+}
+.demo8:hover{
+    background-color: black;
+    color: yellow;
+}

@@ -1,0 +1,30 @@
+div{
+    width: 500px;
+    height: 800px;
+    border: 1px solid black;
+    margin: 0 auto;
+}
+.demo1{
+    width: 450px;
+    padding: 25px;
+    height: 450px;
+}
+.demo2{
+    text-align: justify;
+    padding: 15px;
+    color: red;
+}
+
+.demo0{
+    text-align: justify;
+    padding: 15px;
+    color: blue;
+}
+
+button{
+    padding: 15px;
+    border-radius: 10px;
+    border: none;
+    background-color: #0B5ED7;
+    margin-left: 15px;
+}
